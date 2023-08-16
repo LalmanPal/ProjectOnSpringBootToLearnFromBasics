@@ -50,8 +50,7 @@ public class User {
 	    public String getLastName() {
 	        return lastName;
 	    }
-	    public void setLastName(String lastName) {
-	    	System.out.println("Name =="+lastName);
+	    public void setLastName(String lastName) {	    	
 	        this.lastName = lastName;
 	    }
 	    public String getEmail() {	    	
